@@ -319,7 +319,7 @@ body{
 }
 @media (max-width:500px){
   .container{
-    width: 390px;
+    width: 380px;
     padding: 10px;
   }
   .container2{
@@ -342,11 +342,11 @@ body{
     padding-bottom: 5px;
   }
   .hero2-content{
-    width: 390px;
+    width: 380px;
   }
   .hero2-img img{
     text-align: none;
-    width: 390px;
+    width: 380px;
   }
   .hero2-content{
     text-align: center;
