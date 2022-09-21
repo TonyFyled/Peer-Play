@@ -109,6 +109,9 @@ body{
 .hero2-img{
   padding: 20px 0 50px 0 ;
 }
+.hero2-img img{
+  width: 98.6vw;
+}
 .hero3{
   padding-top: 100px;
   padding-bottom: 50px;
@@ -277,7 +280,7 @@ body{
   padding-bottom: 30px;
 }
 .hero8 .last{
-  width: 98.7vw;
+  width: 98.75vw;
   background-color: black;
 }
 
@@ -346,7 +349,7 @@ body{
   }
   .hero2-img img{
     text-align: none;
-    width: 380px;
+    width: 98.6vw;
   }
   .hero2-content{
     text-align: center;
